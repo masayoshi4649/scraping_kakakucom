@@ -1,0 +1,12 @@
+価格コムのスクレイピング
+CPU:https://kakaku.com/pc/cpu/itemlist.aspx?pdf_so=d2&pdf_pg=1
+CPUcooler:https://kakaku.com/pc/cpu-cooler/itemlist.aspx?pdf_so=e2&pdf_pg=1
+GPU:https://kakaku.com/pc/videocard/itemlist.aspx?pdf_Spec101=1,11&pdf_so=e2&pdf_pg=1
+Mem:https://kakaku.com/pc/pc-memory/itemlist.aspx?pdf_so=e2&pdf_pg=1
+MB:https://kakaku.com/pc/motherboard/itemlist.aspx?pdf_so=e2&pdf_pg=1
+SSD_M2:https://kakaku.com/pc/ssd/itemlist.aspx?pdf_Spec001=1&pdf_Spec102=8&pdf_Spec104=1&pdf_so=e2&pdf_pg=1
+SSD_SATA:https://kakaku.com/pc/ssd/itemlist.aspx?pdf_Spec102=2&pdf_Spec104=1&pdf_so=e2&pdf_pg=1
+HDD:https://kakaku.com/pc/hdd-35inch/itemlist.aspx?pdf_so=e2&pdf_pg=1
+電源:https://kakaku.com/pc/power-supply/itemlist.aspx?pdf_so=e2&pdf_pg=1
+ケース:https://kakaku.com/pc/pc-case/itemlist.aspx?pdf_so=e2&pdf_pg=1
+OS:https://kakaku.com/pc/os-soft/itemlist.aspx?pdf_so=e2&pdf_pg=1

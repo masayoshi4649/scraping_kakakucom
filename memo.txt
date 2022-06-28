@@ -1,2 +1,0 @@
-価格コムのスクレイピング
-CPU:https://kakaku.com/pc/cpu/itemlist.aspx?pdf_so=d2&pdf_pg=1
